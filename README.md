@@ -1,6 +1,7 @@
 # NovaRetail-Kenya-LTD
 This repository contains a complete SQL-based analysis of a retail business scenario, focusing on inventory movement, sales trends, product performance, and operational efficiency. The project emphasizes real-world data analytics skills, from query design to metric extraction. 
-🔍 Project Overview
+
+## Project Overview
 
 This project mimics a real retail data structure with:
 
